@@ -1,0 +1,25 @@
+
+
+table.history{
+    /* margin-top:5px; */
+    margin-left: 17%;
+    
+}
+table.history th,td{
+    font-size:20px;
+    padding-left: 50px;
+    padding-right:50px;    
+    height: 40px;
+    border-radius: 5px;
+    border-color: grey;
+    border-block-color: grey;
+    border-block-end-color: red;
+    border-block-start-color: aqua;
+}
+
+table.history th
+{
+    background-color: grey;
+    /* border-collapse: collapse; */
+}
+
